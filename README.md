@@ -1,7 +1,7 @@
 # Tetris
 
 A way to encode messages into PNG images
-![](Tetris.png)
+![](tetris.png)
 ## Description
 This is a copy of the game Tetris. 
 ##Controls

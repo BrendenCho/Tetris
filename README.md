@@ -3,7 +3,7 @@
 ![](tetris.png)
 ## Description
 This is a copy of the game Tetris. 
-##Controls
+## Controls
 * Left Arrow-Move left 
 * Up Arrow-Rotate 
 * Right Arrow-Move Right 

@@ -1,6 +1,5 @@
 # Tetris
 
-A way to encode messages into PNG images
 ![](tetris.png)
 ## Description
 This is a copy of the game Tetris. 
